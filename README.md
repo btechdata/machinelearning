@@ -24,32 +24,32 @@ While assignments are available in this code repository, they are also available
     - GitHub Assignment
   - Module 2 Extra Practice (Optional)
 - Module 3: Machine Learning Concepts
--   3.1 Math & Statistics Concepts
--     Math & Statistics Assignment
--   3.2 Machine Learning Process
--     Machine Learning Process Assignment
--   3.3 Machine Learning Algorithms
--     Machine Learning Algorithms Assignment
--   3.4 Processing Data
--     Processing Data Assignment
--   3.5 Evaluating Model Performance
--     Evaluating Model Performance
--   Module 3 Extra Practice (Optional)
+  - 3.1 Math & Statistics Concepts
+    - Math & Statistics Assignment
+  - 3.2 Machine Learning Process
+    - Machine Learning Process Assignment
+  - 3.3 Machine Learning Algorithms
+    - Machine Learning Algorithms Assignment
+  - 3.4 Processing Data
+    - Processing Data Assignment
+  - 3.5 Evaluating Model Performance
+    - Evaluating Model Performance
+  - Module 3 Extra Practice (Optional)
 - Module 4: Machine Learning Models (Supervised Algorithms)
--   4.1 Linear Regression
--     Linear Regression Assignment
--   4.2 Decision Tree
--     Decision Tree Assignment
--   4.3 Random Forest
--     Random Forest Assignment
--   Module 4 Extra Practice (Optional)
+  - 4.1 Linear Regression
+    - Linear Regression Assignment
+  - 4.2 Decision Tree
+    - Decision Tree Assignment
+  - 4.3 Random Forest
+    - Random Forest Assignment
+  - Module 4 Extra Practice (Optional)
 - Module 5: Machine Learning Projects
--   Project 1: Business Dataset
--     Demo Using Business Dataset
--   Project 2: Bio Dataset
--     Demo using Bio Dataset
--   Module 5 Extra Practice (Optional)
+  - Project 1: Business Dataset
+    - Demo Using Business Dataset
+  - Project 2: Bio Dataset
+    - Demo using Bio Dataset
+  - Module 5 Extra Practice (Optional)
 - Module 6: Final Machine Learning Project
--   Final Project: Part 1
--   Final Project: Part 2
--   Module 6 Extra Practice (Optional)
+  - Final Project: Part 1
+  - Final Project: Part 2
+- Module 6 Extra Practice (Optional)
