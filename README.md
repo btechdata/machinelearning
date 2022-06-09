@@ -12,17 +12,17 @@ The Machine Learning (Python) course teaches the basics of machine learning and 
 
 While assignments are available in this code repository, they are also available on Canvas. An outline of the course is detailed below:
 - Module 1: Introduction to Machine Learning
--   1.1 Introduction to Machine Learning (Quiz)
--   1.2 Course Overview (Quiz)
--   Module 1 Extra Practice (Optional)
+  - 1.1 Introduction to Machine Learning (Quiz)
+  - 1.2 Course Overview (Quiz)
+  - Module 1 Extra Practice (Optional)
 - Module 2: Machine Learning Tools
--   2.1 Google Colab
--     Google Colab Assignment
--   2.2 Scikit Learn
--     Scikit Learn Assignment
--   2.3 GitHub
--     GitHub Assignment
--    Module 2 Extra Practice (Optional)
+  - 2.1 Google Colab
+    - Google Colab Assignment
+  - 2.2 Scikit Learn
+    - Scikit Learn Assignment
+  - 2.3 GitHub
+    - GitHub Assignment
+  - Module 2 Extra Practice (Optional)
 - Module 3: Machine Learning Concepts
 -   3.1 Math & Statistics Concepts
 -     Math & Statistics Assignment
