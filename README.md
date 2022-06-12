@@ -15,7 +15,7 @@ While assignments are available in this code repository, they are also available
   - 1.1 Introduction to Machine Learning (Quiz)
   - 1.2 Course Overview (Quiz)
   - Module 1 Extra Practice (Optional)
-- [Module 2: Machine Learning Tools](#Module-2:-Machine-Learning-Tools)
+- [Module 2: Machine Learning Tools](#Module-2-Machine-Learning-Tools)
   - 2.1 Google Colab
     - Google Colab Assignment
   - 2.2 Scikit Learn
