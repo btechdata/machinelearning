@@ -11,7 +11,7 @@ The Machine Learning (Python) course teaches the basics of machine learning and 
 - Utilize machine learning algorithms to process data for pattern and problem detection.
 
 While assignments are available in this code repository, they are also available on Canvas. An outline of the course is detailed below:
-- [Module 1: Introduction to Machine Learning][#Module-1-Introduction-to-Machine-Learning]
+- [Module 1: Introduction to Machine Learning](#Module-1-Introduction-to-Machine-Learning)
   - 1.1 Introduction to Machine Learning (Quiz)
   - 1.2 Course Overview (Quiz)
   - Module 1 Extra Practice (Optional)
