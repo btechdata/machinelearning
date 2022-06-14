@@ -1,2 +1,11 @@
+Python will be used for the coding part of this course. This module will show you some efficient tools for Machine Learning. In the past, you have used Jupyter Notebook for Python. This notebook is still a great option for this course; however, we will also teach you about a product from Google Research called Google Colab. Colab allows anyone to write Python code through the browser. Also, we will show you how to install Scikit-learn, a library in Python that provides many machine learning algorithms. 
+
+In addition to those tools, we will introduce you to GitHub. This code hosting platform allows you to work with others in projects and to show your work to possible employers (or recruiters) in your resume.
+
 Here we will have the starter code for all the assignments of Module 2.
 Also, you will find a folder with the data files that you need for each assignment.
+
+OBJECTIVES
+Learn about an interactive environment called Google Colab.
+Learn how to install the Scikit-learn library and to use the machine learning algorithms that this library provides.
+Learn about GitHub and how to create/use a repository.
